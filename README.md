@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-erca de
 😀 Mi nombre es Gabriela Carranza y tengo 49 años. Vivo en Argentina. Soy una persona responsable, creativa, con gran capacidad para trabajar en grupo, tengo la voluntad de estar aprendiendo constantemente nuevas tendencias en programación.
 
 🎓 Formación:
