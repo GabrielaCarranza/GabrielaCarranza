@@ -22,7 +22,7 @@ Soy Analista de Sistemas, egrasada en IES siglo 21 en el año 2018.
 Además soy Full Stack Developer egresada enero 2023 de SoyHenry.
 
 🌐 Experiencia:
-Hace 5 años que trabajo en forma independiente haciendo Sistemas Web para clientes.
+Hace 5 años que trabajo FREELANCER haciendo Sistemas Web para clientes.
 Me especializo en desarrollo de sistemas WEB utilizando: HTML, CSS, PHP, JS, Boostrap, MySQL. He realizado desde el Revelamiento de requerimientos, planificación, desarrollo e implementación, hasta pruebas de testing del proyecto. Pueden ver mis trabajos realizados a mis clientes en mi portafolio https://webcarranza.com.ar
 
 🖥️ Tecnologías:
